@@ -100,7 +100,7 @@ p{
     opacity:0.2;
 }
 
-@media screen and (max-width: 800px){ 
+@media screen and (max-width: 913px){ 
    nav{display: none;}
    
    img{
